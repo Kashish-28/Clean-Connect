@@ -2,7 +2,7 @@
 
 
 
-[CleanConnect](https://anjalisilawat.github.io/Clean-Connect/) is a smart waste management platform aimed at promoting sustainability and reducing waste through innovative technology. The platform connects communities with waste management solutions and encourages participation in environmental events.
+[CleanConnect]( https://kashish-28.github.io/Clean-Connect/) is a smart waste management platform aimed at promoting sustainability and reducing waste through innovative technology. The platform connects communities with waste management solutions and encourages participation in environmental events.
 
 ### Features
 
